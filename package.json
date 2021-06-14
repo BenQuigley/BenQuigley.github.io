@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://signmaker.dev",
   "dependencies": {
-    "@testing-library/jest-dom": "^5.11.8",
+    "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^13.1.9",
     "react": "^17.0.1",
